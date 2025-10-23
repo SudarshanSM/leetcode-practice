@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SudarshanSM/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SudarshanSM/leetcode-practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SudarshanSM/leetcode-practice/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/SudarshanSM/leetcode-practice/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SudarshanSM/leetcode-practice/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/SudarshanSM/leetcode-practice/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
