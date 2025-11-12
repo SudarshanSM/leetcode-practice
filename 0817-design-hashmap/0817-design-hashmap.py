@@ -5,11 +5,9 @@ class MyHashMap:
         self.buckets = [[] for _ in range(self.size)]
 
     def hash_function(self, key: int) -> int:
-        """Compute bucket index for a given key."""
         return key % self.size
 
     def put(self, key: int, value: int) -> None:
-        """Insert or update the (key, value) pair."""
         index = self.hash_function(key)
         bucket = self.buckets[index]
 
@@ -23,7 +21,6 @@ class MyHashMap:
         bucket.append((key, value))
 
     def get(self, key: int) -> int:
-        """Return value mapped to key, or -1 if not found."""
         index = self.hash_function(key)
         bucket = self.buckets[index]
 
@@ -33,7 +30,6 @@ class MyHashMap:
         return -1  # key not found
 
     def remove(self, key: int) -> None:
-        """Remove the key-value pair if key exists."""
         index = self.hash_function(key)
         bucket = self.buckets[index]
 
