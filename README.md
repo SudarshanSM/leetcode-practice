@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SudarshanSM/leetcode-practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SudarshanSM/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SudarshanSM/leetcode-practice/tree/master/0066-plus-one) |
+| [0817-design-hashmap](https://github.com/SudarshanSM/leetcode-practice/tree/master/0817-design-hashmap) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,4 +34,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/SudarshanSM/leetcode-practice/tree/master/0066-plus-one) |
+## Hash Table
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/SudarshanSM/leetcode-practice/tree/master/0817-design-hashmap) |
+## Linked List
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/SudarshanSM/leetcode-practice/tree/master/0817-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/SudarshanSM/leetcode-practice/tree/master/0817-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/SudarshanSM/leetcode-practice/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
