@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SudarshanSM/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SudarshanSM/leetcode-practice/tree/master/0066-plus-one) |
 | [0817-design-hashmap](https://github.com/SudarshanSM/leetcode-practice/tree/master/0817-design-hashmap) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/SudarshanSM/leetcode-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,9 +62,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SudarshanSM/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/SudarshanSM/leetcode-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3174-clear-digits](https://github.com/SudarshanSM/leetcode-practice/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/SudarshanSM/leetcode-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3174-clear-digits](https://github.com/SudarshanSM/leetcode-practice/tree/master/3174-clear-digits) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/SudarshanSM/leetcode-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
