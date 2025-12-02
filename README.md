@@ -56,8 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SudarshanSM/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SudarshanSM/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [3174-clear-digits](https://github.com/SudarshanSM/leetcode-practice/tree/master/3174-clear-digits) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SudarshanSM/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [3174-clear-digits](https://github.com/SudarshanSM/leetcode-practice/tree/master/3174-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/SudarshanSM/leetcode-practice/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
