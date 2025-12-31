@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SudarshanSM/leetcode-practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SudarshanSM/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SudarshanSM/leetcode-practice/tree/master/0066-plus-one) |
+| [0209-minimum-size-subarray-sum](https://github.com/SudarshanSM/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SudarshanSM/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0817-design-hashmap](https://github.com/SudarshanSM/leetcode-practice/tree/master/0817-design-hashmap) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SudarshanSM/leetcode-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SudarshanSM/leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SudarshanSM/leetcode-practice/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/SudarshanSM/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,5 +80,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SudarshanSM/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SudarshanSM/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SudarshanSM/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
