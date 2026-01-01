@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/SudarshanSM/leetcode-practice/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/SudarshanSM/leetcode-practice/tree/master/0070-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SudarshanSM/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SudarshanSM/leetcode-practice/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SudarshanSM/leetcode-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
