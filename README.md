@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SudarshanSM/leetcode-practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/SudarshanSM/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SudarshanSM/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SudarshanSM/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0817-design-hashmap](https://github.com/SudarshanSM/leetcode-practice/tree/master/0817-design-hashmap) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SudarshanSM/leetcode-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SudarshanSM/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/SudarshanSM/leetcode-practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/SudarshanSM/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SudarshanSM/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SudarshanSM/leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SudarshanSM/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,4 +113,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SudarshanSM/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SudarshanSM/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
