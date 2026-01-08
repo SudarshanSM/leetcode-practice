@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SudarshanSM/leetcode-practice/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/SudarshanSM/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SudarshanSM/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/SudarshanSM/leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/SudarshanSM/leetcode-practice/tree/master/0817-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/SudarshanSM/leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
