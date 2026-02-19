@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SudarshanSM/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0817-design-hashmap](https://github.com/SudarshanSM/leetcode-practice/tree/master/0817-design-hashmap) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SudarshanSM/leetcode-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2614-prime-in-diagonal](https://github.com/SudarshanSM/leetcode-practice/tree/master/2614-prime-in-diagonal) |
 | [2733-neither-minimum-nor-maximum](https://github.com/SudarshanSM/leetcode-practice/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SudarshanSM/leetcode-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Binary Search
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SudarshanSM/leetcode-practice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SudarshanSM/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SudarshanSM/leetcode-practice/tree/master/0189-rotate-array) |
+| [2614-prime-in-diagonal](https://github.com/SudarshanSM/leetcode-practice/tree/master/2614-prime-in-diagonal) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SudarshanSM/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SudarshanSM/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [2614-prime-in-diagonal](https://github.com/SudarshanSM/leetcode-practice/tree/master/2614-prime-in-diagonal) |
 ## Sorting
 |  |
 | ------- |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SudarshanSM/leetcode-practice/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/SudarshanSM/leetcode-practice/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
