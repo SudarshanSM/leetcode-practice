@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SudarshanSM/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0817-design-hashmap](https://github.com/SudarshanSM/leetcode-practice/tree/master/0817-design-hashmap) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SudarshanSM/leetcode-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/SudarshanSM/leetcode-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SudarshanSM/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SudarshanSM/leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0817-design-hashmap](https://github.com/SudarshanSM/leetcode-practice/tree/master/0817-design-hashmap) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/SudarshanSM/leetcode-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SudarshanSM/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SudarshanSM/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SudarshanSM/leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/SudarshanSM/leetcode-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3174-clear-digits](https://github.com/SudarshanSM/leetcode-practice/tree/master/3174-clear-digits) |
 ## Stack
 |  |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SudarshanSM/leetcode-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/SudarshanSM/leetcode-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3174-clear-digits](https://github.com/SudarshanSM/leetcode-practice/tree/master/3174-clear-digits) |
 ## Queue
 |  |
