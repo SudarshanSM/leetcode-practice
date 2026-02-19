@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SudarshanSM/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0817-design-hashmap](https://github.com/SudarshanSM/leetcode-practice/tree/master/0817-design-hashmap) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SudarshanSM/leetcode-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SudarshanSM/leetcode-practice/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2614-prime-in-diagonal](https://github.com/SudarshanSM/leetcode-practice/tree/master/2614-prime-in-diagonal) |
 | [2733-neither-minimum-nor-maximum](https://github.com/SudarshanSM/leetcode-practice/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SudarshanSM/leetcode-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SudarshanSM/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SudarshanSM/leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0817-design-hashmap](https://github.com/SudarshanSM/leetcode-practice/tree/master/0817-design-hashmap) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SudarshanSM/leetcode-practice/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SudarshanSM/leetcode-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Linked List
 |  |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/SudarshanSM/leetcode-practice/tree/master/2614-prime-in-diagonal) |
+## Enumeration
+|  |
+| ------- |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SudarshanSM/leetcode-practice/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 <!---LeetCode Topics End-->
