@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SudarshanSM/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0817-design-hashmap](https://github.com/SudarshanSM/leetcode-practice/tree/master/0817-design-hashmap) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SudarshanSM/leetcode-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2733-neither-minimum-nor-maximum](https://github.com/SudarshanSM/leetcode-practice/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SudarshanSM/leetcode-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Binary Search
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/SudarshanSM/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SudarshanSM/leetcode-practice/tree/master/0242-valid-anagram) |
+| [2733-neither-minimum-nor-maximum](https://github.com/SudarshanSM/leetcode-practice/tree/master/2733-neither-minimum-nor-maximum) |
 ## Tree
 |  |
 | ------- |
