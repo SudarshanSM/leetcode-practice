@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/SudarshanSM/leetcode-practice/tree/master/2614-prime-in-diagonal) |
 | [2733-neither-minimum-nor-maximum](https://github.com/SudarshanSM/leetcode-practice/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SudarshanSM/leetcode-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/SudarshanSM/leetcode-practice/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/SudarshanSM/leetcode-practice/tree/master/0817-design-hashmap) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SudarshanSM/leetcode-practice/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SudarshanSM/leetcode-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/SudarshanSM/leetcode-practice/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Linked List
 |  |
 | ------- |
