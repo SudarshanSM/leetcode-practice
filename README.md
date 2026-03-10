@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SudarshanSM/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SudarshanSM/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SudarshanSM/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/SudarshanSM/leetcode-practice/tree/master/0268-missing-number) |
 | [0817-design-hashmap](https://github.com/SudarshanSM/leetcode-practice/tree/master/0817-design-hashmap) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SudarshanSM/leetcode-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SudarshanSM/leetcode-practice/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SudarshanSM/leetcode-practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/SudarshanSM/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SudarshanSM/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/SudarshanSM/leetcode-practice/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SudarshanSM/leetcode-practice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SudarshanSM/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SudarshanSM/leetcode-practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/SudarshanSM/leetcode-practice/tree/master/0268-missing-number) |
 | [2614-prime-in-diagonal](https://github.com/SudarshanSM/leetcode-practice/tree/master/2614-prime-in-diagonal) |
 ## Hash Table
 |  |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SudarshanSM/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SudarshanSM/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SudarshanSM/leetcode-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SudarshanSM/leetcode-practice/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SudarshanSM/leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0817-design-hashmap](https://github.com/SudarshanSM/leetcode-practice/tree/master/0817-design-hashmap) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SudarshanSM/leetcode-practice/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SudarshanSM/leetcode-practice/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/SudarshanSM/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SudarshanSM/leetcode-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SudarshanSM/leetcode-practice/tree/master/0268-missing-number) |
 | [2733-neither-minimum-nor-maximum](https://github.com/SudarshanSM/leetcode-practice/tree/master/2733-neither-minimum-nor-maximum) |
 ## Tree
 |  |
@@ -190,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SudarshanSM/leetcode-practice/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SudarshanSM/leetcode-practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
