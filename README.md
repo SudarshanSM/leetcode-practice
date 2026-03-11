@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SudarshanSM/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SudarshanSM/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SudarshanSM/leetcode-practice/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/SudarshanSM/leetcode-practice/tree/master/0704-binary-search) |
 | [0817-design-hashmap](https://github.com/SudarshanSM/leetcode-practice/tree/master/0817-design-hashmap) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SudarshanSM/leetcode-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SudarshanSM/leetcode-practice/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SudarshanSM/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SudarshanSM/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SudarshanSM/leetcode-practice/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/SudarshanSM/leetcode-practice/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
