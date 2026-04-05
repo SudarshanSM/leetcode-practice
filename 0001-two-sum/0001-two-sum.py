@@ -7,4 +7,6 @@ class Solution:
             diff = target - nums[i]  
             if diff in seen:          
                 return [seen[diff], i] 
-            seen[nums[i]] = i          
+                break
+            else:
+                seen[nums[i]] = i          
