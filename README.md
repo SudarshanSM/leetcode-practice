@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SudarshanSM/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SudarshanSM/leetcode-practice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/SudarshanSM/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/SudarshanSM/leetcode-practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SudarshanSM/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/SudarshanSM/leetcode-practice/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/SudarshanSM/leetcode-practice/tree/master/0189-rotate-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SudarshanSM/leetcode-practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SudarshanSM/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SudarshanSM/leetcode-practice/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/SudarshanSM/leetcode-practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SudarshanSM/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SudarshanSM/leetcode-practice/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SudarshanSM/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SudarshanSM/leetcode-practice/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/SudarshanSM/leetcode-practice/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SudarshanSM/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SudarshanSM/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SudarshanSM/leetcode-practice/tree/master/0242-valid-anagram) |
